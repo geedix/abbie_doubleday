@@ -1,4 +1,5 @@
 function showAlert(message){
-    alert('abner invented' +message);
+    let myDate = Date.now();
+    alert('abner invented' +message+' now is: '+myDate);
 }
 
