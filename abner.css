@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:monospace;
+    background:#eee;
+    color:#232325;
+}
