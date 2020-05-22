@@ -7,4 +7,10 @@ body{
     font-family:monospace;
     background:#eee;
     color:#232325;
+    
+}
+.holder{
+    padding:20px;
+    color:blue;
+    line-height: 1.6em;
 }
